@@ -2,7 +2,7 @@
 
 ## Simplified DES Application 
 
-Introduction 
+### Introduction 
 The Simplified DES Application is a software implementation of a basic version of the Data  Encryption Standard (DES), a symmetric-key block cipher originally developed in the 1970s. 
 DES was widely used for encrypting and decrypting data, where the encryption process involves a series of permutations and substitutions using a secret key. 
 
@@ -17,7 +17,7 @@ The application allows the user to:
 - Encrypt or decrypt the message using the DES algorithm. 
 - View the resulting encrypted or decrypted data after processing. 
 
-### Output 
+### Output of the Application
 Example 1: Encryption & Decryption
 
 ![Screenshot 2024-12-09 165935](https://github.com/user-attachments/assets/68ef70ae-37d6-49c7-ae56-f6e6787e7cc5)
