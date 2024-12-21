@@ -1,0 +1,7 @@
+C:\Users\MSI 15\source\repos\SimplifiedDES\SimplifiedDES\bin\Debug\SimplifiedDES.exe.config
+C:\Users\MSI 15\source\repos\SimplifiedDES\SimplifiedDES\bin\Debug\SimplifiedDES.exe
+C:\Users\MSI 15\source\repos\SimplifiedDES\SimplifiedDES\bin\Debug\SimplifiedDES.pdb
+C:\Users\MSI 15\source\repos\SimplifiedDES\SimplifiedDES\obj\Debug\SimplifiedDES.csproj.AssemblyReference.cache
+C:\Users\MSI 15\source\repos\SimplifiedDES\SimplifiedDES\obj\Debug\SimplifiedDES.csproj.CoreCompileInputs.cache
+C:\Users\MSI 15\source\repos\SimplifiedDES\SimplifiedDES\obj\Debug\SimplifiedDES.exe
+C:\Users\MSI 15\source\repos\SimplifiedDES\SimplifiedDES\obj\Debug\SimplifiedDES.pdb

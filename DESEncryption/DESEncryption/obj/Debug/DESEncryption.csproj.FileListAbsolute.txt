@@ -1,0 +1,7 @@
+C:\Users\MSI 15\source\repos\DESEncryption\DESEncryption\bin\Debug\DESEncryption.exe.config
+C:\Users\MSI 15\source\repos\DESEncryption\DESEncryption\bin\Debug\DESEncryption.exe
+C:\Users\MSI 15\source\repos\DESEncryption\DESEncryption\bin\Debug\DESEncryption.pdb
+C:\Users\MSI 15\source\repos\DESEncryption\DESEncryption\obj\Debug\DESEncryption.csproj.AssemblyReference.cache
+C:\Users\MSI 15\source\repos\DESEncryption\DESEncryption\obj\Debug\DESEncryption.csproj.CoreCompileInputs.cache
+C:\Users\MSI 15\source\repos\DESEncryption\DESEncryption\obj\Debug\DESEncryption.exe
+C:\Users\MSI 15\source\repos\DESEncryption\DESEncryption\obj\Debug\DESEncryption.pdb

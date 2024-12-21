@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI 15\\source\\repos\\DESEncryption\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9CC0E-378B-406C-BBFF-B517995F2694}|DESEncryption\\DESEncryption.csproj|c:\\users\\msi 15\\source\\repos\\desencryption\\desencryption\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD9CC0E-378B-406C-BBFF-B517995F2694}|DESEncryption\\DESEncryption.csproj|solutionrelative:desencryption\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI 15\\source\\repos\\DESEncryption\\DESEncryption\\Program.cs",
+              "RelativeDocumentMoniker": "DESEncryption\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI 15\\source\\repos\\DESEncryption\\DESEncryption\\Program.cs",
+              "RelativeToolTip": "DESEncryption\\Program.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAIwC0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:24:51.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
