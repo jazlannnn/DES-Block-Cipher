@@ -12,17 +12,17 @@ This application is designed to replicate the core encryption and decryption pro
 binary input and key, enabling them to encrypt or decrypt messages using  a single round of the algorithm. 
 
 The application allows the user to: 
-• Input an 8-bit binary string for encryption or decryption. 
-• Choose between encryption and decryption modes. 
-• Encrypt or decrypt the message using the DES algorithm. 
-• View the resulting encrypted or decrypted data after processing. 
+- Input an 8-bit binary string for encryption or decryption. 
+- Choose between encryption and decryption modes. 
+- Encrypt or decrypt the message using the DES algorithm. 
+- View the resulting encrypted or decrypted data after processing. 
 
 Output 
 Example 1: Encryption & Decryption
-
+![Screenshot 2024-12-09 165935](https://github.com/user-attachments/assets/68ef70ae-37d6-49c7-ae56-f6e6787e7cc5)
 
 Example 2: Decryption & Encryption 
-
+![Screenshot 2024-12-09 170033](https://github.com/user-attachments/assets/d977f172-85e1-4943-9db9-ad7ff1fe8422)
 
 
 Conclusion 
