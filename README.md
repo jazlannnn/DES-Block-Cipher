@@ -59,7 +59,7 @@ Key: 0001001100110100010101110111100110011011101111001101111111110001
 
 ![Screenshot 2024-12-10 040319](https://github.com/user-attachments/assets/5ecd1ea3-a7c2-43db-9ed6-68a58ed16527)
 ![Screenshot 2024-12-10 040337](https://github.com/user-attachments/assets/b4b9ba20-aacc-498e-89af-485d542f136f)
-![Screenshot 2024-12-10 040337](https://github.com/user-attachments/assets/ee1e8571-504d-4b06-aa36-3b893741bf27)
+![Screenshot 2024-12-10 040350](https://github.com/user-attachments/assets/b9f89cc7-f248-4736-b90f-5ee10e78df15)
 
 Example 2: 
 
@@ -70,7 +70,6 @@ Key: 1010101010111011101110101011111110001001011100111110101010111101
 ![Screenshot 2024-12-10 155906](https://github.com/user-attachments/assets/e7dad9e9-04f3-4753-8eb1-6bcf564faf7f)
 ![Screenshot 2024-12-10 155914](https://github.com/user-attachments/assets/bfa60dc0-6062-4af4-8695-324641aea3ec)
 
-
 Example 3: 
 
 Plaintext: 0110100101101111011100110110010101101001011100111101100101011100 
@@ -80,7 +79,6 @@ Key: 1101001101110110100101011000111000111010110011010100111010100011
 ![Screenshot 2024-12-10 160009](https://github.com/user-attachments/assets/ecae637a-67d4-4a52-8318-1e8955cc9792)
 ![Screenshot 2024-12-10 160019](https://github.com/user-attachments/assets/fc5f128e-af38-4513-8069-f4945ee72412)
 
-
 Example 4: 
 
 Plaintext: 1111000011110000111100001111000011110000111100001111000011110000 
@@ -89,7 +87,6 @@ Key: 0001100101011101001011001110101011101010010110010101001011111000
 ![Screenshot 2024-12-10 160047](https://github.com/user-attachments/assets/7ed6dabb-c283-4bb4-aa6d-5d5865982657)
 ![Screenshot 2024-12-10 160057](https://github.com/user-attachments/assets/2d28fba4-cf55-48d5-b61f-d238179f78ba)
 ![Screenshot 2024-12-10 160104](https://github.com/user-attachments/assets/f111cab0-07a9-4205-b95b-737c2169c6a0)
-
 
 Example 5: 
 
