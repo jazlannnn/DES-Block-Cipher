@@ -17,7 +17,7 @@ The application allows the user to:
 - Encrypt or decrypt the message using the DES algorithm. 
 - View the resulting encrypted or decrypted data after processing. 
 
-Output 
+### Output 
 Example 1: Encryption & Decryption
 ![Screenshot 2024-12-09 165935](https://github.com/user-attachments/assets/68ef70ae-37d6-49c7-ae56-f6e6787e7cc5)
 
