@@ -27,7 +27,7 @@ Example 2: Decryption & Encryption
 ![Screenshot 2024-12-09 170033](https://github.com/user-attachments/assets/d977f172-85e1-4943-9db9-ad7ff1fe8422)
 
 
-Conclusion 
+### Conclusion 
 The Simplified DES Application provides a straightforward way to understand the core principles of the Data Encryption Standard (DES) algorithm. By implementing key elements such as initial and final permutations, 
 the Feistel function, and substitution operations, the application allows users to see how encryption and decryption processes work in a simplified manner. Although based on a reduced version of DES, it offers valuable insight 
 into symmetric-key cryptography and can serve as an educational tool for those interested in learning the basics of block cipher encryption.
